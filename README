@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1260
+
+Colorizes the filter files used by TMDA ( http://www.tmda.net/ ), the Tagged Message Delivery Agent.
+
+I don't use all of the features of TMDA, so please let me know of any things that should be colorized and aren't.
